@@ -1,0 +1,26 @@
+C:\Users\woute\source\repos\SelectionSortAlgorithm\SelectionSortAlgorithm\bin\Debug\netcoreapp3.1\SelectionSortAlgorithm.exe
+C:\Users\woute\source\repos\SelectionSortAlgorithm\SelectionSortAlgorithm\bin\Debug\netcoreapp3.1\SelectionSortAlgorithm.deps.json
+C:\Users\woute\source\repos\SelectionSortAlgorithm\SelectionSortAlgorithm\bin\Debug\netcoreapp3.1\SelectionSortAlgorithm.runtimeconfig.json
+C:\Users\woute\source\repos\SelectionSortAlgorithm\SelectionSortAlgorithm\bin\Debug\netcoreapp3.1\SelectionSortAlgorithm.runtimeconfig.dev.json
+C:\Users\woute\source\repos\SelectionSortAlgorithm\SelectionSortAlgorithm\bin\Debug\netcoreapp3.1\SelectionSortAlgorithm.dll
+C:\Users\woute\source\repos\SelectionSortAlgorithm\SelectionSortAlgorithm\bin\Debug\netcoreapp3.1\SelectionSortAlgorithm.pdb
+C:\Users\woute\source\repos\SelectionSortAlgorithm\SelectionSortAlgorithm\obj\Debug\netcoreapp3.1\SelectionSortAlgorithm.csprojAssemblyReference.cache
+C:\Users\woute\source\repos\SelectionSortAlgorithm\SelectionSortAlgorithm\obj\Debug\netcoreapp3.1\SelectionSortAlgorithm.AssemblyInfoInputs.cache
+C:\Users\woute\source\repos\SelectionSortAlgorithm\SelectionSortAlgorithm\obj\Debug\netcoreapp3.1\SelectionSortAlgorithm.AssemblyInfo.cs
+C:\Users\woute\source\repos\SelectionSortAlgorithm\SelectionSortAlgorithm\obj\Debug\netcoreapp3.1\SelectionSortAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\woute\source\repos\SelectionSortAlgorithm\SelectionSortAlgorithm\obj\Debug\netcoreapp3.1\SelectionSortAlgorithm.dll
+C:\Users\woute\source\repos\SelectionSortAlgorithm\SelectionSortAlgorithm\obj\Debug\netcoreapp3.1\SelectionSortAlgorithm.pdb
+C:\Users\woute\source\repos\SelectionSortAlgorithm\SelectionSortAlgorithm\obj\Debug\netcoreapp3.1\SelectionSortAlgorithm.genruntimeconfig.cache
+C:\Users\woute\OneDrive - Office 365 Fontys\SelectionSortAlgorithm\SelectionSortAlgorithm\bin\Debug\netcoreapp3.1\SelectionSortAlgorithm.exe
+C:\Users\woute\OneDrive - Office 365 Fontys\SelectionSortAlgorithm\SelectionSortAlgorithm\bin\Debug\netcoreapp3.1\SelectionSortAlgorithm.deps.json
+C:\Users\woute\OneDrive - Office 365 Fontys\SelectionSortAlgorithm\SelectionSortAlgorithm\bin\Debug\netcoreapp3.1\SelectionSortAlgorithm.runtimeconfig.json
+C:\Users\woute\OneDrive - Office 365 Fontys\SelectionSortAlgorithm\SelectionSortAlgorithm\bin\Debug\netcoreapp3.1\SelectionSortAlgorithm.runtimeconfig.dev.json
+C:\Users\woute\OneDrive - Office 365 Fontys\SelectionSortAlgorithm\SelectionSortAlgorithm\bin\Debug\netcoreapp3.1\SelectionSortAlgorithm.dll
+C:\Users\woute\OneDrive - Office 365 Fontys\SelectionSortAlgorithm\SelectionSortAlgorithm\bin\Debug\netcoreapp3.1\SelectionSortAlgorithm.pdb
+C:\Users\woute\OneDrive - Office 365 Fontys\SelectionSortAlgorithm\SelectionSortAlgorithm\obj\Debug\netcoreapp3.1\SelectionSortAlgorithm.csprojAssemblyReference.cache
+C:\Users\woute\OneDrive - Office 365 Fontys\SelectionSortAlgorithm\SelectionSortAlgorithm\obj\Debug\netcoreapp3.1\SelectionSortAlgorithm.AssemblyInfoInputs.cache
+C:\Users\woute\OneDrive - Office 365 Fontys\SelectionSortAlgorithm\SelectionSortAlgorithm\obj\Debug\netcoreapp3.1\SelectionSortAlgorithm.AssemblyInfo.cs
+C:\Users\woute\OneDrive - Office 365 Fontys\SelectionSortAlgorithm\SelectionSortAlgorithm\obj\Debug\netcoreapp3.1\SelectionSortAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\woute\OneDrive - Office 365 Fontys\SelectionSortAlgorithm\SelectionSortAlgorithm\obj\Debug\netcoreapp3.1\SelectionSortAlgorithm.dll
+C:\Users\woute\OneDrive - Office 365 Fontys\SelectionSortAlgorithm\SelectionSortAlgorithm\obj\Debug\netcoreapp3.1\SelectionSortAlgorithm.pdb
+C:\Users\woute\OneDrive - Office 365 Fontys\SelectionSortAlgorithm\SelectionSortAlgorithm\obj\Debug\netcoreapp3.1\SelectionSortAlgorithm.genruntimeconfig.cache

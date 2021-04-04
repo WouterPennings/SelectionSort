@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionSortAlgorithm", "SelectionSortAlgorithm\SelectionSortAlgorithm.csproj", "{4D917CCE-59A0-4329-9E11-5729A745F2CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D917CCE-59A0-4329-9E11-5729A745F2CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D917CCE-59A0-4329-9E11-5729A745F2CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D917CCE-59A0-4329-9E11-5729A745F2CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D917CCE-59A0-4329-9E11-5729A745F2CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D031C2C0-CAB8-4394-9702-979ADF094288}
+	EndGlobalSection
+EndGlobal
